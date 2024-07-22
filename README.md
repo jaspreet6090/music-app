@@ -6,4 +6,4 @@ Just an Practise project in Nextjs focus on a new component library.
 
 ## Deployment
 
-The app is deployed at [https://example.com](https://example.com).
+The app is deployed at [https://music-app-jaspreet.vercel.app/](https://music-app-jaspreet.vercel.app/).
